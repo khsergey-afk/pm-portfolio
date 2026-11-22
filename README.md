@@ -3,8 +3,8 @@
 **English** | [Русский](ru/README.md)
 
 Program & business architect with 15 years in transformation and IT programs. This repository
-shows the **methodology behind the work**: four anonymized case folders and a reviewer guide for
-a 15-minute pass.
+shows the **methodology behind the work**: five anonymized case folders and a reviewer guide for
+a 20-minute pass.
 
 > Cases are anonymized: no employer or client names, no document titles, no operational figures.
 > Scale indicators are kept where they demonstrate methodology capacity; all data in examples and
@@ -19,7 +19,7 @@ a 15-minute pass.
 | **Concept design of shared services (SSC/GBS)** | one concept design for a group of 120 organizations: a single center built on centralized processes and methodology — front office, customer service unit, one end-to-end operating and process model; staff training and optimization on site; a pricing methodology; rollout through 2029 |
 | **Financial case (business case development)** | the economics of moving 120 organizations to one shared service: detailed function & staff migration plans, NPV/ROI, defense at the budget committee, transition budgets of the organizations |
 | **Change management on the ground** | the human side of the same program: change methodology across 120 organizations, training to work the new way, role redesign on site |
-| **Business architecture** | a component model of a nationwide group: 1,500+ business functions — business-architecture transparency and faster decisions |
+| **Business architecture** | a component model of a nationwide group: 1,500+ business functions — business-architecture transparency and faster decisions; and the end-to-end client operating model now driving the group-wide transformation |
 | **IT program delivery** | budget-management platform rollout to 300+ organizations; a CRM platform across 8 regions; integration requirements and target process architecture for an SAP ERP launch scope |
 | **Process modeling** | enterprise ARIS repository administration; a corporate business-process modeling standard (EPC, BPMN 2.0, IDEF0) |
 | **AI products** | a document-processing AI assistant: ~30% of routine operations completed touchless, from concept defense to rollout |
@@ -53,7 +53,8 @@ Methodological backbone: PMBoK, BABOK, ITIL 4, ISO 21502, ISO/IEC/IEEE 29148, GO
 | [cases/02-business-architecture/](cases/02-business-architecture/case.md) | the component-model method: decomposing a group into functions and components |
 | [cases/03-financial-case/](cases/03-financial-case/case.md) | the financial case: migration plans, NPV/ROI, budget-committee defense |
 | [cases/04-change-management/](cases/04-change-management/case.md) | managing change on the ground: from a change concept to sustainable new ways of working |
-| [REVIEWER_GUIDE.md](REVIEWER_GUIDE.md) | how to review the cases in 15 minutes |
+| [cases/05-operating-model/](cases/05-operating-model/case.md) | the end-to-end operating model: one client path across front office, customer service unit and shared services — the group transformation standard |
+| [REVIEWER_GUIDE.md](REVIEWER_GUIDE.md) | how to review the cases in 20 minutes |
 
 ## Related work
 

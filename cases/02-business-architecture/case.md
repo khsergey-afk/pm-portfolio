@@ -38,6 +38,12 @@ Principles that made it work:
 4. **Decision-first** — every attribute exists because some decision needs it (centralize, buy,
    automate); attributes nobody uses are cut.
 
+The component model is one instrument of the program's business architecture, not the whole of it.
+The same toolkit holds: the target process model (level-4 target processes), function zoning (to the
+shared center / optimize in place / stay in the front office), the role structure (role registry,
+process-role matrix), the service model (catalog + SLA/OLA), the geographic placement model, the KPI
+tree, and modeling conventions (BPMN 2.0).
+
 ## Artifacts
 
 - a function registry of **1,500+ business functions** with performer, systems, volume drivers;
@@ -63,4 +69,6 @@ were selected from the registry, not from a new survey each time.
 
 The same registry feeds the rest of the portfolio: the zoning map of
 [case 1 — concept design](../01-concept-design/case.md) starts from it, and the volume drivers of
-[case 3 — the financial case](../03-financial-case/case.md) come from it.
+[case 3 — the financial case](../03-financial-case/case.md) come from it. See also
+[case 5 — the end-to-end operating model](../05-operating-model/case.md): the client path the group
+now transforms by.

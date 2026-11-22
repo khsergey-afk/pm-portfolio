@@ -1,4 +1,4 @@
-# Reviewer guide — how to review this portfolio in 15 minutes
+# Reviewer guide — how to review this portfolio in 20 minutes
 
 **English** | [Русский](ru/REVIEWER_GUIDE.md)
 
@@ -14,6 +14,7 @@ tell a working method from a write-up.
 | 3 | [Case 2: business architecture](cases/02-business-architecture/case.md) | 3 min | a repeatable decomposition method with decision views |
 | 4 | [Case 3: the financial case](cases/03-financial-case/case.md) | 3 min | numbers built to survive a budget committee |
 | 5 | [Case 4: change management](cases/04-change-management/case.md) | 3 min | the human side run as a method, not as announcements |
+| 6 | [Case 5: the end-to-end operating model](cases/05-operating-model/case.md) | 3 min | who answers to whom: explicit responsibility boundaries along the client path |
 
 ## What to check (the fast test for a working method)
 
@@ -23,7 +24,7 @@ tell a working method from a write-up.
    wave; the decision memo format fixes one recommendation, the conditions that change it, and
    risk owners; change-register entries name a support channel and an adoption KPI.
 3. **Are numbers sourced?** Illustrative examples say "fictional data" explicitly; the rule
-   "every figure carries a source, date and unit" runs through all four cases.
+   "every figure carries a source, date and unit" runs through all five cases.
 4. **Is there a gate?** A management-committee gate between concept and detailed design (case 1),
    a budget-committee gate with a three-artifact package (case 3), transition-period completion
    criteria signed per wave (case 4) — verifiable gates, not vibes.
