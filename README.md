@@ -62,5 +62,5 @@ Methodological backbone: PMBoK, BABOK, ITIL 4, ISO 21502, ISO/IEC/IEEE 29148, GO
   methodology meets AI agents (task in, accepted document out).
 - [omniscope-concept](https://github.com/khsergey-afk/omniscope-concept) — the analysis engine
   that assembles verified Excel/Word/PPTX/Visio/MS Project deliverables.
-- **PMP study vault** — 186 linked Obsidian notes on PMBoK 6/7 + Agile, generated from structured
+- **PMP study vault** — 336 linked Obsidian notes on PMBoK 6/7 + Agile, generated from structured
   data (separate repository, in preparation).
