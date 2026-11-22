@@ -51,10 +51,10 @@
 
 | Путь | Что это |
 |---|---|
-| [cases/01-concept-design/](../cases/01-concept-design/case.md) | концептуальный дизайн ОЦО: зонирование функций, операционная модель, ценообразование, волны тиража |
-| [cases/02-business-architecture/](../cases/02-business-architecture/case.md) | метод компонентной модели: декомпозиция группы на функции и компоненты |
-| [cases/03-financial-case/](../cases/03-financial-case/case.md) | финансово-экономическая модель: планы миграции, NPV/ROI, защита на бюджетном комитете |
-| [cases/04-change-management/](../cases/04-change-management/case.md) | управление изменениями на местах: от концепции изменений к устойчивой работе по-новому |
+| [cases/01-concept-design/](cases/01-concept-design/case.md) | концептуальный дизайн ОЦО: зонирование функций, операционная модель, ценообразование, волны тиража |
+| [cases/02-business-architecture/](cases/02-business-architecture/case.md) | метод компонентной модели: декомпозиция группы на функции и компоненты |
+| [cases/03-financial-case/](cases/03-financial-case/case.md) | финансово-экономическая модель: планы миграции, NPV/ROI, защита на бюджетном комитете |
+| [cases/04-change-management/](cases/04-change-management/case.md) | управление изменениями на местах: от концепции изменений к устойчивой работе по-новому |
 | [REVIEWER_GUIDE.md](REVIEWER_GUIDE.md) | как проверить кейсы за 15 минут |
 
 ## Смежные работы
