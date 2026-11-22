@@ -1,6 +1,6 @@
 # Case: business architecture — the component model of a corporate group
 
-**English** | [Русский](case.ru.md)
+**English** | [Русский](../../ru/cases/02-business-architecture/case.md)
 
 > A nationwide business group, dozens of legal entities: everybody knows their own piece, nobody
 > sees the whole. Decisions on centralization, systems and organizational change are argued by
@@ -61,8 +61,6 @@ on centralization and platform consolidation argued by facts, and — the key co
 the registry became the standing baseline for the **shared-services program**: candidate services
 were selected from the registry, not from a new survey each time.
 
-## What the folder shows
-
-- the method as a repeatable procedure (decomposition principles, attribute set, quality rules);
-- the decision views it produces (see the tables above);
-- the working checklist that keeps a function registry clean (see [checklists](../../checklists)).
+The same registry feeds the rest of the portfolio: the zoning map of
+[case 1 — concept design](../01-concept-design/case.md) starts from it, and the volume drivers of
+[case 3 — the financial case](../03-financial-case/case.md) come from it.
