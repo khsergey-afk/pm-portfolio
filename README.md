@@ -35,13 +35,13 @@ a 15-minute pass.
 - management toolkit: communications, team leadership, client work, contracts, procurement,
   budgeting, resource planning.
 
-Methodological backbone: PMBoK, BABOK, ITIL 4, ISO 21502, BPMN 2.0, ArchiMate, COBIT, DAMA-DMBOK.
+Methodological backbone: PMBoK, BABOK, ITIL 4, ISO 21502, ISO/IEC/IEEE 29148, GOST 34, BPMN 2.0, ArchiMate, COBIT, DAMA-DMBOK.
 
 ## Skills and expertise
 
 | | |
 |---|---|
-| **Hard skills** | program & project management (PMBoK); business analysis (BABOK); conceptual design and business case development; project, solution and methodology documentation; process and service model design — SLA/OLA, service catalogs (ITIL 4); business architecture — component models, ARIS, BPMN 2.0 / EPC / IDEF0; financial justification of projects and programs; data & AI products in production |
+| **Hard skills** | program & project management (PMBoK); business analysis and requirements engineering (BABOK, GOST 34, ISO 29148); conceptual design and business case development; project, solution and methodology documentation; process and service model design — SLA/OLA, service catalogs (ITIL 4); business architecture — component models, ARIS, BPMN 2.0 / EPC / IDEF0; financial justification of projects and programs; data & AI products in production |
 | **Management & soft skills** | leading cross-regional programs (8 regions, 300+ organizations); board-level communication — prepared decision memos and presentations for the **Gazprom Management Board** (PAO Gazprom); stakeholder management across a corporate group; project and concept defenses at executive level; team building and mentoring; contracts, procurement, budgeting, resource planning |
 | **Domain expertise** | gas industry: market structure, legislative framework, supplier chains, billing and regional sales companies; shared services for settlement and call-center services; client service and accrual calculation; corporate governance decision processes |
 
