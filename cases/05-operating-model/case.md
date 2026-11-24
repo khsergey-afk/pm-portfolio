@@ -4,7 +4,7 @@
 
 > A shared services center scoped as a standalone unit does not fix a broken client path: functions stay
 > scattered across the group's legal entities, and every company answers only for its own piece. This case
-> redesigns the client path as one whole — and it became the transformation standard for 120 organizations.
+> redesigns the client path as one whole — and it became the transformation standard for 119 organizations.
 
 ## Problem
 
@@ -48,7 +48,7 @@ Principles that made the model work:
 ## Artifacts
 
 - an end-to-end process regulation with an explicit responsibility split — front office / customer
-  service unit / shared services center — one document for **a group of 120 organizations**;
+  service unit / shared services center — one document for **a group of 119 organizations**;
 - role maps and a process-role matrix: who performs, who owns, who verifies each step of the client
   path;
 - a service model: a service catalog, SLA/OLA and an interaction-and-escalation regulation between the
@@ -74,7 +74,7 @@ a single business architecture and a single client path: controllability — an 
 of localized functions — plus transparency and speed, while personal service stayed with the group
 companies, whose front offices remain the face to the client.
 
-The model became the transformation standard: a group of 120 organizations is rebuilding its client
+The model became the transformation standard: a group of 119 organizations is rebuilding its client
 path to fit it, and development continues in a second wave under the service principle above. The
 model was born in the operating-model section of [case 1 — concept design](../01-concept-design/case.md),
 stands on the function registry of [case 2 — business architecture](../02-business-architecture/case.md),
