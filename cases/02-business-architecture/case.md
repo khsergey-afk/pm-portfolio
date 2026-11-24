@@ -33,7 +33,7 @@ Principles that made it work:
 1. **Atomicity** — a function is either delegated entirely or not at all; "partially centralized"
    is a design smell.
 2. **One register** — every function lives once; entities are *views*, not copies.
-3. **Facts over claims** — volume and frequency attributes come from systems, not interviews;
+3. **Facts over claims** — volume and frequency attributes are gathered from accounting systems, documentation, and interviews;
    interview figures are marked as estimates.
 4. **Decision-first** — every attribute exists because some decision needs it (centralize, buy,
    automate); attributes nobody uses are cut.
