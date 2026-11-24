@@ -16,13 +16,13 @@ a 20-minute pass.
 
 | Area | What was built |
 |---|---|
-| **Concept design of shared services (SSC/GBS)** | one concept design for a group of 120 organizations: a single center built on centralized processes and methodology — front office, customer service unit, one end-to-end operating and process model; staff training and optimization on site; a pricing methodology; rollout through 2029 |
-| **Financial case (business case development)** | the economics of moving 120 organizations to one shared service: detailed function & staff migration plans, NPV/ROI, defense at the budget committee, transition budgets of the organizations |
-| **Change management on the ground** | the human side of the same program: change methodology across 120 organizations, training to work the new way, role redesign on site |
+| **Concept design of shared services (SSC/GBS)** | one concept design for a group of 119 organizations: a single center built on centralized processes and methodology — front office, customer service unit, one end-to-end operating and process model; staff training and optimization on site; a pricing methodology; rollout through 2029 |
+| **Financial case (business case development)** | the economics of moving 119 organizations to one shared service: detailed function & staff migration plans, NPV/ROI, defense at the budget committee, transition budgets of the organizations |
+| **Change management on the ground** | the human side of the same program: change methodology across 119 organizations, training to work the new way, role redesign on site |
 | **Business architecture** | a component model of a nationwide group: 1,500+ business functions — business-architecture transparency and faster decisions; and the end-to-end client operating model now driving the group-wide transformation |
 | **IT program delivery** | budget-management platform rollout to 300+ organizations; a CRM platform across 8 regions; integration requirements and target process architecture for an SAP ERP launch scope |
 | **Process modeling** | enterprise ARIS repository administration; a corporate business-process modeling standard (EPC, BPMN 2.0, IDEF0) |
-| **AI products** | a document-processing AI assistant: ~30% of routine operations completed touchless, from concept defense to rollout |
+| **Applied AI** | agentic workspaces and showcases: Forja (a workplace for CLI agents), OmniScope (6 specialist agents, verified document output), PMPTrainer (PMP prep bot); AI governance — roles, permissions and agent boundaries; certificate «Vibe-Coding with Claude Code» (Zerocoder, 2026) |
 
 ## Role and scope of work
 
